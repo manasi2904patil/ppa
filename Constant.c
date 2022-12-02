@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main()
+{
+    int no1 = 10;
+    Const int no2 = 10;
+   
+    printf("%d\n",no1);
+    printf("%d\n",no2);
+
+    no1++;
+    no2++;
+
+    return 0;
+}
